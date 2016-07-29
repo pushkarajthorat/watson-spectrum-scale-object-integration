@@ -79,3 +79,14 @@ On all protocol nodes:
 	/var/log/swift/watson-service.log
 	
 Logging level can be increased by updating 'log_level' in: /etc/swift/watson-integration.conf
+
+####CONTRIBUTIONS
+Following team members has contributed for the realization of the project:
+
+	Sandeep Ramesh Patil
+	Nisarga G Lolage
+	Sandeep Naik
+	Pushkaraj Balasaheb Thorat
+	Smita J Raut
+	Varun Mittal
+
