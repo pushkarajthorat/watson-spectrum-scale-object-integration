@@ -1,4 +1,5 @@
-#Integration of IBM Spectrum Scale Object with IBM Watson Cognitive services
+Integration of IBM Spectrum Scale Object with IBM Watson Cognitive services
+====================================================
 
 This is demonstration of integration of IBM Spectrum Scale object with IBM Watson Cognitive services hosted at IBM Bluemix. This module utilizes Openstack Swift middlewares at proxy middleware chain and intercepts the request to check if the request satisfies the criteria for cognitive processing. If such request is selected then it is added to external [STOMP](http://stomp.github.io/)(Streaming Text Oriented Messaging Protocol based queue for further processing. 
 
